@@ -1,8 +1,8 @@
 package Task::Amon2;
 use strict;
 use warnings;
-use 5.008008;
-our $VERSION = '0.01';
+use 5.008001;
+our $VERSION = '0.02';
 
 
 1;
